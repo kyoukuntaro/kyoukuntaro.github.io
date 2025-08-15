@@ -28,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Chief Researcher at  [Hitachi, Ltd](https://www.hitachi.com/rd/). My main research interests include physics-informed machine learning, but I am also interested in machine learning utilizing quantum computing and geographic information.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
+I am conducting my research on nonlinear dynamics as a PhD student under the supervision of Prof. [Hiroya Nakao](https://sites.google.com/sc.e.titech.ac.jp/hiroya-nakao/) at the [Institute of Science Tokyo](https://www.isct.ac.jp/en).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before that, I studied at the [Kyoto University](https://www.kyoto-u.ac.jp/en), where I received B.E. and M.E. degrees under the supervision of Prof. [Toshio Aoyagi](https://www-np.acs.i.kyoto-u.ac.jp/en).
