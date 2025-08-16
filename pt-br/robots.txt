@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kyoukuntaro.github.io/sitemap.xml
