@@ -451,8 +451,8 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/jp-ja/books/en-us/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-aistats-2026で発表してきました",
+          title: 'AISTATS 2026で発表してきました。',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
