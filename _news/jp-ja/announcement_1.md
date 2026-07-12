@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-AISTATS 2026で発表してきました。
+AISTATS 2026で発表しました。
