@@ -451,16 +451,25 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/en-us/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-um-anúncio-simples-em-uma-linha",
+          title: 'Um anúncio simples em uma linha.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-um-anúncio-longo-com-detalhes",
+          title: 'Um anúncio longo com detalhes',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/en-us/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/pt-br/announcement_2/";
+            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
+          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-公立はこだて未来大学でセミナーをしました",
+          title: '公立はこだて未来大学でセミナーをしました。',
+          description: "",
+          section: "News",},{id: "news-aistats-2026で発表しました",
+          title: 'AISTATS 2026で発表しました。',
+          description: "",
+          section: "News",},{id: "news-共著論文がcolmにアクセプトされました",
+          title: '共著論文がCOLMにアクセプトされました。',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
